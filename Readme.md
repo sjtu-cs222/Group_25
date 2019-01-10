@@ -19,7 +19,7 @@ The graph of entropy is stored in "data\Adam_input_lower_simple_scrambled_entrop
 
 Detailed Usage:
 =============================================
-run_deciphering.py [options]
+python run_deciphering.py [options]
 
 Options:
 
