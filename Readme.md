@@ -1,12 +1,15 @@
-Dependencies:
-python >=3.6
-
+Dependencies 
+==================
+python >=3.6  
 matplotlib >=3.0.0
 
 Quick Start
 =============
 take the original text in "Adam_input.txt", and run:  
 run.bat
+
+Or run the version of upper-case:  
+run_upper.bat
 
 It will change the text to lower cases, and eradicate some infrequent characters, encode the text 
 with a random cipher key, then run our algorithm.
