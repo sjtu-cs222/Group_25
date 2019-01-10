@@ -5,13 +5,13 @@ matplotlib >=3.0.0
 
 Quick Start
 =============
-take the original text in "Adam_input.txt", and run:
+take the original text in "Adam_input.txt", and run:  
 run.bat
 
 It will change the text to lower cases, and eradicate some infrequent characters, encode the text 
 with a random cipher key, then run our algorithm.
 
-The five most possible solutions in the file "data\Adam_input_lower_simple_scrambled_result.txt"
+The five most possible solutions in the file "data\Adam_input_lower_simple_scrambled_result.txt"  
 The graph of entropy is stored in "data\Adam_input_lower_simple_scrambled_entropy.jpg"  
 
 Detailed Usage:
